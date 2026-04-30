@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+firebase-admin
+litellm
+python-dotenv
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+httpx
+openpyxl
+pydantic
+pydantic-settings
+python-multipart
+duckduckgo-search
